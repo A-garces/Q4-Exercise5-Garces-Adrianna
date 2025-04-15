@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(33, 32, 32);
+    color: rgb(0, 0, 0);
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.container {
+    max-width: 1000px;
+    padding: 2%;
+    border-radius: 30px;
+    margin-top: 10%;
+    background-color: white;
+}
+
+label {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+input {
+    margin-left: 39.5%;
+}
